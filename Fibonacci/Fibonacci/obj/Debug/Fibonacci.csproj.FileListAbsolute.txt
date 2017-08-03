@@ -1,0 +1,8 @@
+c:\users\talita\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+c:\users\talita\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+c:\users\talita\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+c:\users\talita\documents\visual studio 2015\Projects\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

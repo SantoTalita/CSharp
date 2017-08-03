@@ -1,0 +1,9 @@
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\bin\Debug\SomatoriaDe1a100.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\bin\Debug\SomatoriaDe1a100.exe
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\bin\Debug\SomatoriaDe1a100.pdb
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\obj\Debug\SomatoriaDe1a100.csprojResolveAssemblyReference.cache
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\obj\Debug\SomatoriaDe1a100.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\obj\Debug\SomatoriaDe1a100.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\obj\Debug\SomatoriaDe1a100.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\obj\Debug\SomatoriaDe1a100.exe
+c:\users\talita\documents\visual studio 2015\Projects\SomatoriaDe1a100\SomatoriaDe1a100\obj\Debug\SomatoriaDe1a100.pdb

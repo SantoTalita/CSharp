@@ -1,0 +1,9 @@
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\bin\Debug\ExercicioVotando.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\bin\Debug\ExercicioVotando.exe
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\bin\Debug\ExercicioVotando.pdb
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\obj\Debug\ExercicioVotando.csprojResolveAssemblyReference.cache
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\obj\Debug\ExercicioVotando.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\obj\Debug\ExercicioVotando.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\obj\Debug\ExercicioVotando.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\obj\Debug\ExercicioVotando.exe
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioVotando\ExercicioVotando\obj\Debug\ExercicioVotando.pdb

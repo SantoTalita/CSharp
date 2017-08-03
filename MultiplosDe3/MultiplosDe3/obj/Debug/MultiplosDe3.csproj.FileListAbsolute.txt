@@ -1,0 +1,8 @@
+c:\users\talita\documents\visual studio 2015\Projects\MultiplosDe3\MultiplosDe3\bin\Debug\MultiplosDe3.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\MultiplosDe3\MultiplosDe3\bin\Debug\MultiplosDe3.exe
+c:\users\talita\documents\visual studio 2015\Projects\MultiplosDe3\MultiplosDe3\bin\Debug\MultiplosDe3.pdb
+c:\users\talita\documents\visual studio 2015\Projects\MultiplosDe3\MultiplosDe3\obj\Debug\MultiplosDe3.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\MultiplosDe3\MultiplosDe3\obj\Debug\MultiplosDe3.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\MultiplosDe3\MultiplosDe3\obj\Debug\MultiplosDe3.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\MultiplosDe3\MultiplosDe3\obj\Debug\MultiplosDe3.exe
+c:\users\talita\documents\visual studio 2015\Projects\MultiplosDe3\MultiplosDe3\obj\Debug\MultiplosDe3.pdb

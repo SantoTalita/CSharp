@@ -1,0 +1,9 @@
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\obj\Debug\Fatorial.csprojResolveAssemblyReference.cache
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\obj\Debug\Fatorial.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\obj\Debug\Fatorial.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+c:\users\talita\documents\visual studio 2015\Projects\Fatorial\Fatorial\obj\Debug\Fatorial.pdb

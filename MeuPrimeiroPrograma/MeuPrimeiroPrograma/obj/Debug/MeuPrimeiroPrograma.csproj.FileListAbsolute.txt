@@ -1,0 +1,9 @@
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\MeuPrimeiroPrograma.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\MeuPrimeiroPrograma.exe
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\bin\Debug\MeuPrimeiroPrograma.pdb
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\MeuPrimeiroPrograma.csprojResolveAssemblyReference.cache
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\MeuPrimeiroPrograma.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\MeuPrimeiroPrograma.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\MeuPrimeiroPrograma.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\MeuPrimeiroPrograma.exe
+c:\users\talita\documents\visual studio 2015\Projects\MeuPrimeiroPrograma\MeuPrimeiroPrograma\obj\Debug\MeuPrimeiroPrograma.pdb

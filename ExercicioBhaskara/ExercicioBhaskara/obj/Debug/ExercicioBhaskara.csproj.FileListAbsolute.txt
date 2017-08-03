@@ -1,0 +1,8 @@
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioBhaskara\ExercicioBhaskara\bin\Debug\ExercicioBhaskara.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioBhaskara\ExercicioBhaskara\bin\Debug\ExercicioBhaskara.exe
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioBhaskara\ExercicioBhaskara\bin\Debug\ExercicioBhaskara.pdb
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\ExercicioBhaskara.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\ExercicioBhaskara.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\ExercicioBhaskara.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\ExercicioBhaskara.exe
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\ExercicioBhaskara.pdb

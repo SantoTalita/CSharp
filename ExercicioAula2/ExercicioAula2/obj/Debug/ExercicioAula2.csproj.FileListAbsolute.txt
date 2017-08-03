@@ -1,0 +1,9 @@
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\bin\Debug\ExercicioAula2.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\bin\Debug\ExercicioAula2.exe
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\bin\Debug\ExercicioAula2.pdb
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\obj\Debug\ExercicioAula2.csprojResolveAssemblyReference.cache
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\obj\Debug\ExercicioAula2.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\obj\Debug\ExercicioAula2.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\obj\Debug\ExercicioAula2.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\obj\Debug\ExercicioAula2.exe
+c:\users\talita\documents\visual studio 2015\Projects\ExercicioAula2\ExercicioAula2\obj\Debug\ExercicioAula2.pdb

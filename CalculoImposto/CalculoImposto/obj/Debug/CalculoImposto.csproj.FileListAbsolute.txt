@@ -1,0 +1,8 @@
+c:\users\talita\documents\visual studio 2015\Projects\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.exe
+c:\users\talita\documents\visual studio 2015\Projects\CalculoImposto\CalculoImposto\bin\Debug\CalculoImposto.pdb
+c:\users\talita\documents\visual studio 2015\Projects\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.exe
+c:\users\talita\documents\visual studio 2015\Projects\CalculoImposto\CalculoImposto\obj\Debug\CalculoImposto.pdb

@@ -1,0 +1,12 @@
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\bin\Debug\Conta.exe.config
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\bin\Debug\Conta.exe
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\bin\Debug\Conta.pdb
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.csprojResolveAssemblyReference.cache
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.Form1.resources
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.exe
+c:\users\talita\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.pdb
+C:\Users\Talita\Documents\Visual Studio 2015\Projects\CSharp\Conta\Conta\bin\Debug\Conta.exe.config
+C:\Users\Talita\Documents\Visual Studio 2015\Projects\CSharp\Conta\Conta\obj\Debug\Conta.exe
+C:\Users\Talita\Documents\Visual Studio 2015\Projects\CSharp\Conta\Conta\obj\Debug\Conta.pdb
