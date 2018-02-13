@@ -19,7 +19,11 @@ namespace CaixaEletronico
 
 
 
-        private Conta[] contas = new Conta [2] ;
+        private Conta[] contas;
+        private int qtdDeContas;
+
+        
+
         public Form1()
         {
             InitializeComponent();
@@ -40,7 +44,7 @@ namespace CaixaEletronico
 
         private void button1_Click(object sender, EventArgs e)
         {
-            contas[1] = c1;
+            //contas[1] = c1;
             this.t = new TotalizadorDeContas();
             this.cc = new ContaCorrente();
             this.cc.Deposita(2000);
@@ -48,8 +52,8 @@ namespace CaixaEletronico
             this.cc.titular = cliente;
             t.Adiciona(cc);
             MessageBox.Show("Totalizador de contas: " + t.saldoTotal);
-            contas[0] = cc;
-
+            //contas[0] = cc;
+            /***
             GerenciadorDeImposto g = new GerenciadorDeImposto();
             foreach (Conta conta in contas)
             {
@@ -57,7 +61,8 @@ namespace CaixaEletronico
             }
 
             g.Adiciona(cc);
-            MessageBox.Show("Tributos : " + Convert.ToString(g.Total));
+            MessageBox.Show("Tributos : " + Convert.ToString(g.Total)); 
+            ***/
         }
 
         private void comboContas_SelectedIndexChanged(object sender, EventArgs e)
@@ -67,6 +72,20 @@ namespace CaixaEletronico
             textTitular.Text = contaSelecionada.titular.Nome;
             textSaldo.Text = Convert.ToString(contaSelecionada.Saldo);
             textNumero.Text = Convert.ToString(contaSelecionada.numero);
+        }
+
+        public void AdicionaConta(Conta conta)
+        {
+            contas[qtdDeContas] = conta;
+            this.qtdDeContas++;
+            comboContas.Items.Add(conta);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            CadastroDeConta formCadastro = new CadastroDeConta(this);
+            formCadastro.ShowDialog();
+
         }
     }
 }

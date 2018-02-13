@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CaixaEletronico
 {
-    class Conta
+    public class Conta
     {
         public double Saldo { get; protected set; }
         public Cliente titular;

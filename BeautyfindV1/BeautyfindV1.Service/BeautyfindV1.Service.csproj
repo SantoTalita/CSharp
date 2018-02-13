@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BeautyfindV1.Domain\BeautyfindV1.Domain.csproj" />
+    <ProjectReference Include="..\BeautyfindV1.Repository\BeautyfindV1.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
